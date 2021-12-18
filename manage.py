@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#manage.pyはサイトの管理に役立つスクリプトです。Webサーバーを起動することができます。
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
